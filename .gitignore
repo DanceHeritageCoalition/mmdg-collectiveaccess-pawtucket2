@@ -11,3 +11,15 @@
 
 !app
 !app/conf/*
+
+app/controllers/
+app/helpers/
+app/lib/
+app/locale/
+app/models/
+app/plugins/
+app/printTemplates/
+app/service/
+app/tmp/
+app/version.php
+
